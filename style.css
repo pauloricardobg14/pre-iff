@@ -115,3 +115,18 @@ h2, h3, h4, h5, h6 {
 a {
     text-decoration: none;
 }
+ section.video {
+    background-color: blue;
+    padding: 20px;
+    margin: 20px -10px;
+    padding-bottom: 59%;
+    position: relative;
+ }
+
+ section.video > iframe {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+}
