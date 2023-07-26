@@ -4,6 +4,9 @@ body {
     background-color: #041ADB;
     font-size: 20px;
     text-align: center;
+    background-image: url('imagens/index.bg.jpg');
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 header {
