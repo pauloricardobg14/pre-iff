@@ -1,5 +1,11 @@
 @charset "UTF-8";
 
+@font-face {
+    font-family: 'Nice';
+    src: url('fontes/nice_honey/Nice\ Honey.ttf') format(truetype), url('fontes/nice_honey/Nice\ Honey.otf') format(truetype);
+}
+
+
 body {
     background-color: #041ADB;
     font-size: 20px;
@@ -31,9 +37,9 @@ main {
     text-align: center;
 }
 
-h1 {
+h1, h2 {
     text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Nice';
 }
 
 strong {
