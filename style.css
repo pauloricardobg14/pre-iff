@@ -3,6 +3,7 @@
 body {
     background-color: #041ADB;
     font-size: 20px;
+    text-align: center;
 }
 
 header {
@@ -131,3 +132,25 @@ section.video > iframe {
     width: 90%;
     height: 90%;
 }
+
+footer {
+    max-width: 1000px;
+    min-width: 250px;
+    margin: 0px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 15px;
+    text-align: center;
+    margin-bottom: 10px;
+    display: inline-block;
+    }
+
+    footer > a {
+        color: dodgerblue;
+    }
+
+    footer > a:hover {
+        color: dodgerblue;
+        text-decoration: underline;
+        text-decoration-color: cornflowerblue;
+    }
