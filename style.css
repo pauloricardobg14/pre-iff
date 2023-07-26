@@ -1,0 +1,101 @@
+@charset "UTF-8";
+
+body {
+    background-color: #041ADB;
+    font-size: 20px;
+}
+
+header {
+max-width: 1000px;
+min-width: 250px;
+margin: auto;
+background-color: white;
+padding: 10px;
+border-radius: 15px;
+text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+strong {
+    color: #074BF2;
+}
+
+p {
+    font-weight: 700;
+}
+
+div {
+ text-align: center;
+ padding: 10px;
+ margin: auto;
+ margin:  10px;
+}
+
+#algebra {
+    background-color: blue;
+    max-width: 500px;
+    min-width: 125px;
+    border-radius: 15px;
+}
+
+#geometria {
+    background-color: darkblue;
+    max-width: 500px;
+    min-width: 125px;
+    border-radius: 15px;
+}
+
+#portugues {
+    background-color: yellow;
+    max-width: 500px;
+    min-width: 125px;
+    border-radius: 15px;
+}
+
+#fisica {
+    background-color: purple;
+    max-width: 500px;
+    min-width: 125px;
+    border-radius: 15px;
+}
+
+#quimica {
+    background-color: orange;
+    max-width: 500px;
+    min-width: 125px;
+    border-radius: 15px;
+}
+
+#biologia {
+    background-color: lime;
+    max-width: 500px;
+    min-width: 125px;
+    border-radius: 15px;
+}
+
+#historia {
+    background-color: brown;
+    max-width: 500px;
+    min-width: 125px;
+    border-radius: 15px;
+}
+
+#geografia {
+    background-color: darkgreen;
+    max-width: 500px;
+    min-width: 125px;
+    border-radius: 15px;
+}
+
+
+div > h2 {
+    color: white;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
