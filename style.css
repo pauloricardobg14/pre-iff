@@ -116,7 +116,7 @@ a {
     text-decoration: none;
 }
 
-div.video {
+section.video {
     background-color: white;
     padding: 20px;
     margin: 20px -10px;
@@ -124,7 +124,7 @@ div.video {
     position: relative;
 }
 
-div.video > iframe {
+section.video > iframe {
     position: absolute;
     top: 5%;
     left: 5%;
