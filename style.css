@@ -62,6 +62,8 @@ div {
     max-width: 500px;
     min-width: 125px;
     border-radius: 15px;
+    margin: auto;
+    margin-bottom: 10px;
 }
 
 #geometria {
@@ -69,6 +71,8 @@ div {
     max-width: 500px;
     min-width: 125px;
     border-radius: 15px;
+    margin: auto;
+    margin-bottom: 10px;
 }
 
 #portugues {
@@ -76,6 +80,8 @@ div {
     max-width: 500px;
     min-width: 125px;
     border-radius: 15px;
+    margin: auto;
+    margin-bottom: 10px;
 }
 
 #fisica {
@@ -83,6 +89,8 @@ div {
     max-width: 500px;
     min-width: 125px;
     border-radius: 15px;
+    margin: auto;
+    margin-bottom: 10px;
 }
 
 #quimica {
@@ -90,6 +98,8 @@ div {
     max-width: 500px;
     min-width: 125px;
     border-radius: 15px;
+    margin: auto;
+    margin-bottom: 10px;
 }
 
 #biologia {
@@ -97,6 +107,8 @@ div {
     max-width: 500px;
     min-width: 125px;
     border-radius: 15px;
+    margin: auto;
+    margin-bottom: 10px;
 }
 
 #historia {
@@ -104,6 +116,8 @@ div {
     max-width: 500px;
     min-width: 125px;
     border-radius: 15px;
+    margin: auto;
+    margin-bottom: 10px;
 }
 
 #geografia {
@@ -111,8 +125,14 @@ div {
     max-width: 500px;
     min-width: 125px;
     border-radius: 15px;
+    margin: auto;
+    margin-bottom: 10px;
 }
 
+  a.playlist {
+    color: white;
+    font-size: 40px;
+}
 
 div > h2 {
     color: white;
